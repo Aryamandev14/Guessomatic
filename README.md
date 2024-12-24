@@ -13,3 +13,25 @@ Guessomatic is a C-based word-guessing game inspired by the classic Hangman game
 
 <li>Limited number of attempts to guess the word.</li>
 </ol>
+<b>How to Play</b>
+<ol>
+<li>Run the program.</li>
+<li>The game will randomly select a word for you to guess.</li>
+<li>You can input one letter at a time.</li>
+
+<li>If the letter is in the word, its position(s) will be revealed.</li>
+
+<li>If the letter is not in the word, you lose one attempt.</li>
+
+<li>The game ends when you:</li>
+<ul>
+<li>Successfully guess the entire word.</li>
+
+<li>Run out of attempts.</li>
+</ul>
+</ol>
+<b>Prerequisites</b>
+
+A C compiler (e.g., GCC).
+
+Basic understanding of how to run C programs.
