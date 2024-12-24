@@ -31,7 +31,7 @@ Guessomatic is a C-based word-guessing game inspired by the classic Hangman game
 </ul>
 </ol>
 <b>Prerequisites</b>
-
-A C compiler (e.g., GCC).
-
-Basic understanding of how to run C programs.
+<ul>
+<li>A C compiler (e.g., GCC).</li>
+<li>Basic understanding of how to run C programs.</li>
+</ul>
