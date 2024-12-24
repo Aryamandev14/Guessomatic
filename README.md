@@ -1,6 +1,7 @@
-# GuessomaticOverview
+# Guessomatic
+<b>Overview</b>
 
-Guessomatic is a C-based word-guessing game inspired by the classic Hangman game. The objective of the game is to guess the hidden word by suggesting letters within a limited number of attempts. Each incorrect guess brings you closer to losing, so choose wisely!
+<p>Guessomatic is a C-based word-guessing game inspired by the classic Hangman game. The objective of the game is to guess the hidden word by suggesting letters within a limited number of attempts. Each incorrect guess brings you closer to losing, so choose wisely!</p>
 
 <b>Features</b>
 <ol>
